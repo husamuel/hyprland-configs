@@ -45,7 +45,7 @@ mkdir -p ~/.config/assets/backgrounds
 cp -r assets/* ~/.config/assets/
 
 ```
-3. **Install required programs (not included in this repo):**
+3. **Install required programs:**
 
 - Hyprland
 - Wofi
@@ -56,6 +56,10 @@ cp -r assets/* ~/.config/assets/
 - Thunderbird
 - Dunst
 - Waybar
+
+```bash
+sudo pacman -S --needed hyprland wofi alacritty thunar vivaldi-bin obsidian-bin thunderbird dunst waybar
+```
 
 4. **Start Hyprland:**
 
@@ -109,4 +113,6 @@ Here are the main shortcuts and commands from the Hyprland configuration:
 
 ---
 
+## 📜 License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
