@@ -1,6 +1,15 @@
-# Minimalist and Productive Hyprland Setup
+# My Boring Hyprland Setup
 
-A focus-oriented and minimalist Hyprland configuration with hyper-minimal Waybar, lockscreen, and lightweight Dunst notifications.
+<div align="center" style="background-color: #232136; border-left: 5px solid rgb(111, 142, 235); padding: 1em; margin-bottom: 1em; color: #e0def4;">
+  <h2 style="color: rgb(185, 242, 255);">Hello and Welcome to my Hyprland Setup!</h2>
+  <p>I hope you find it useful and enjoyable.</p>
+  <p>It was my first time configuring a Hyprland setup and I decid to do a focus-oriented and minimalist Hyprland configuration to increase my proditivity<p>
+
+  <p style="color: #f6c177;">
+    ❗I am always open to suggestions and feedback
+    
+  </p>
+</div>
 
 <img width="1915" height="1077" alt="screenshot_2025-10-21_17-19-54" src="https://github.com/user-attachments/assets/e9ab490b-cc11-47a5-bbcf-698844313930" />
 
