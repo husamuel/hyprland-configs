@@ -2,6 +2,10 @@
 
 A focus-oriented and minimalist Hyprland configuration with hyper-minimal Waybar, lockscreen, and lightweight Dunst notifications.
 
+
+Uploading 202510211620.mp4…
+
+
 ---
 
 ## Features
